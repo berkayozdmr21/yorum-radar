@@ -1,0 +1,11 @@
+services:
+  radar:
+    build: .
+    ports:
+      - "127.0.0.1:8940:8940"
+    volumes:
+      - reviews:/app/data
+      - models:/app/artifacts
+volumes:
+  reviews:
+  models:
