@@ -1,0 +1,121 @@
+﻿text,label
+"Ürün harika kalitesi çok iyi, memnun kaldım.",positive
+"Siparişim hızlı geldi, paketleme özenliydi.",positive
+"Müşteri hizmetleri sorunumu hemen çözdü, teşekkürler.",positive
+"Fiyatına göre çok başarılı, kesinlikle tavsiye ederim.",positive
+"Çok beğendim, tekrar satın alacağım.",positive
+"Kargo ertesi gün ulaştı, hizmet mükemmeldi.",positive
+Ürün fotoğraftakinden daha güzel çıktı.,positive
+"İade işlemi kolayca tamamlandı, ilgilendiler.",positive
+Uygulama kullanımı kolay ve sorunsuz çalışıyor.,positive
+İndirim sayesinde çok uygun fiyata aldım.,positive
+"Paket sağlamdı, ürün eksiksiz teslim edildi.",positive
+Destek ekibi nazik ve çözüm odaklıydı.,positive
+"Kaliteli malzeme kullanılmış, uzun süre dayanır.",positive
+Teslimat söylenen tarihten önce gerçekleşti.,positive
+"Bu alışverişten çok memnunum, herkese öneririm.",positive
+"Rengi ve tasarımı çok hoş, severek kullanıyorum.",positive
+"Satıcı çok ilgiliydi, sorularıma hemen cevap verdi.",positive
+Parasının karşılığını fazlasıyla veriyor.,positive
+Beklentimin üzerinde performans gösterdi.,positive
+Hızlı kargo ve güzel paket için teşekkür ederim.,positive
+"İlk kullanımda bile farkını hissettim, çok başarılı.",positive
+"Kurulumu basitti, hiçbir sorun yaşamadım.",positive
+"Hediye olarak aldım, çok beğenildi.",positive
+Ödeme işlemi güvenli ve hızlı tamamlandı.,positive
+"Kullanışlı bir ürün, işimi çok kolaylaştırdı.",positive
+"İletişim çok iyiydi, her aşamada bilgi verildi.",positive
+Kargo görevlisi güler yüzlü ve dikkatliydi.,positive
+"Ürün sağlam çalışıyor, fiyatı da makul.",positive
+"İade ücretim hemen yatırıldı, süreç sorunsuzdu.",positive
+"Görünüşü güzel, dikişleri düzgün ve kumaşı kaliteli.",positive
+"Sipariş deneyimi kusursuzdu, tekrar tercih ederim.",positive
+"Uygulamayı çok sevdim, aradığımı kolayca buldum.",positive
+"Teknik destek çok yardımcı oldu, problem kalmadı.",positive
+Bu fiyata alınabilecek en iyi ürün.,positive
+Tertemiz ve korunaklı bir kutuda geldi.,positive
+"Çalışma hızı çok iyi, beklentimi karşıladı.",positive
+"Kesinlikle pişman olmadım, gönül rahatlığıyla alın.",positive
+"Tüm parçalar yerli yerinde, montaj rahat oldu.",positive
+Uygun fiyat ve yüksek kalite bir arada.,positive
+"Gerçekten özenli hizmet, teşekkürler.",positive
+"Ürün bozuk geldi, hiç çalışmıyor.",negative
+"Kargo çok geç geldi, iki hafta bekledim.",negative
+"Müşteri hizmetlerine ulaşamıyorum, kimse ilgilenmiyor.",negative
+"Fiyat çok pahalı, bu kaliteye değmez.",negative
+"Hiç beğenmedim, param boşa gitti.",negative
+"Paket yırtıktı, ürün hasarlı teslim edildi.",negative
+"İade talebim reddedildi, mağdur oldum.",negative
+"Uygulama sürekli çöküyor, kullanamıyorum.",negative
+"Yanlış ürün gönderildi, siparişimle alakası yok.",negative
+"Çok kalitesiz, iki günde kırıldı.",negative
+Kargo firması adresime gelmeden geri göndermiş.,negative
+"Destek ekibi kaba davrandı, sorun çözülmedi.",negative
+"Fotoğraftakiyle aynı değil, hayal kırıklığı yaşadım.",negative
+"Ücret iadesi yapılmadı, haftalardır bekliyorum.",negative
+Teslimat tarihi geçti ama paket hâlâ ortada yok.,negative
+"Ürünün parçaları eksik çıktı, kuramadım.",negative
+"Fiyatı gereksiz yüksek, kesinlikle tavsiye etmiyorum.",negative
+Ödeme alındı ama sipariş oluşmadı.,negative
+Kullanımı zor ve arayüz çok karışık.,negative
+Müşteri temsilcisi telefonumu yüzüme kapattı.,negative
+"Kumaşı çok kötü, ilk yıkamada rengi soldu.",negative
+"Siparişim kayboldu, kargodan haber alamıyorum.",negative
+Ürün kullanılmış gibi kirli ve çizik geldi.,negative
+"İade süreci çok yorucu, sürekli oyalıyorlar.",negative
+"İndirim diye fiyatı artırmışlar, aldatıcı.",negative
+"Sürekli hata veriyor, hesabıma giremiyorum.",negative
+"Pil çok çabuk bitiyor, performansı yetersiz.",negative
+"Paketleme berbat, kutu ezilmişti.",negative
+"Servis ilgisiz, arızayı çözmediler.",negative
+Bir daha buradan alışveriş yapmayacağım.,negative
+Geç teslimat yüzünden hediyeyi yetiştiremedim.,negative
+"Kalitesi düşük, verilen parayı hak etmiyor.",negative
+Destek mesajlarıma günlerdir cevap yok.,negative
+"Ürün beklentilerimi karşılamadı, pişmanım.",negative
+"Kargo ücreti çok yüksek, toplam fiyat şaşırttı.",negative
+"Uygulamada sepet sürekli siliniyor, sinir bozucu.",negative
+"Yanlış beden gönderdiler, değişim de yapmadılar.",negative
+"İade kargosunu bana ödettiler, hiç memnun değilim.",negative
+Malzeme dayanıksız ve kokusu rahatsız edici.,negative
+"Vaat edilen özellikler yok, tavsiye etmem.",negative
+"Ürün bugün elime ulaştı, henüz kullanmadım.",neutral
+Siparişimin durumunu öğrenmek istiyorum.,neutral
+Ürünün ölçüleri hakkında bilgi verebilir misiniz?,neutral
+Paketin içinde iki adet parça bulunuyor.,neutral
+Kargo takip numarası e-postama gönderildi.,neutral
+Fiyat geçen aykiyle aynı görünüyor.,neutral
+Bu ürünün farklı renkleri var mı?,neutral
+"Uygulamayı yeni indirdim, incelemeye başlayacağım.",neutral
+İade şartlarını nereden okuyabilirim?,neutral
+Müşteri hizmetlerinin çalışma saatleri nedir?,neutral
+Siparişim üç gün önce verildi.,neutral
+Kutu üzerindeki model numarası bu şekilde yazıyor.,neutral
+Ürünü denedikten sonra yorum yapacağım.,neutral
+Fatura bilgilerini değiştirmek istiyorum.,neutral
+Teslimat adresini güncellemek mümkün mü?,neutral
+"Standart bir ürün, özel bir fark göremedim.",neutral
+"Ne iyi ne kötü, ortalama bir deneyimdi.",neutral
+"Beklediğim gibi, normal bir alışverişti.",neutral
+Ürün açıklamasında garanti süresi iki yıl yazıyor.,neutral
+Kargo dağıtıma çıkmış görünüyor.,neutral
+Ödeme seçeneklerini kontrol ediyorum.,neutral
+Siparişte bir adet siyah ve bir adet beyaz ürün var.,neutral
+İade için hangi belgeler gerekiyor?,neutral
+Destek numarasını paylaşabilir misiniz?,neutral
+Ürünün ağırlığı ve boyutu nedir?,neutral
+"Paket teslim edildi, kontrol edeceğim.",neutral
+Bu modelin önceki modelden farkı nedir?,neutral
+"Fiyat karşılaştırması yapıyorum, henüz karar vermedim.",neutral
+Uygulamanın bildirim ayarını değiştirdim.,neutral
+"Ürün orta seviyede, işini yapıyor.",neutral
+Teslimat için hafta içi evde olacağım.,neutral
+Sipariş tarihi faturada belirtilmiş.,neutral
+Müşteri temsilcisi ile konuşmak istiyorum.,neutral
+Kargoyu şubeden teslim alabilir miyim?,neutral
+Ürün iki farklı boyutta satılıyor.,neutral
+"Normal kalite, günlük kullanım için aldım.",neutral
+Değişim işleminin nasıl yapıldığını öğrenmek istiyorum.,neutral
+Sepetimdeki ürünün stok durumunu soracağım.,neutral
+"İlk izlenimim sıradan, zamanla değerlendireceğim.",neutral
+Kutu ve kullanım kılavuzu birlikte geliyor.,neutral
